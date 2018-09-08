@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="body">body...</string>
+    <string name="title">title...</string>
+    <string name="title_tv">Title</string>
+    <string name="body_tv">Body</string>
+</resources>
